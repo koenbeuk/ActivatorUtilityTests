@@ -13,7 +13,7 @@ namespace ActivatorUtilityTests
     public class MultipleConstructorParameterTests : TestsBase
     {
         public class Subject
-        { 
+        {
             public Subject()
             {
 
